@@ -61,3 +61,5 @@ The ggplot() function creates a new plot object and takes a dataset (mtcars) and
 1. Avoid using too many colors "rainbow effect".  Using a single color, or varying shades of the same color, is a much better practice
 2. Label the axes - Labelling the axes gives your viewer context
 
+## Task -3 
+ - creating visual
