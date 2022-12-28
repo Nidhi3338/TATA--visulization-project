@@ -5,7 +5,7 @@
 - They would also like to view different metrics based on the demographic information that is available in the data.
 - Create a set of four questions that you anticipate each business leader will ask and want to know the answers to. 
 
-## task- 2
+## Task- 2
 - to pick the right visulization for diffrent scenario.
 
 We always start by loading up and looking at the dataset we want to analyze and visualize. 
