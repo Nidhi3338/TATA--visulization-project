@@ -55,3 +55,6 @@ If you want to represent your categorical data as part of the whole, then you sh
 ```
 	![alt text](linear.png)
 The ggplot() function creates a new plot object and takes a dataset (mtcars) and aes (aesthetics) as arguments. 
+## important note 
+1. Avoid using too many colors "rainbow effect".  Using a single color, or varying shades of the same color, is a much better practice
+2. Label the axes - Labelling the axes gives your viewer context
