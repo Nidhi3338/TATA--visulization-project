@@ -41,7 +41,8 @@ continous varibales , Scatter plots are useful for showing a correlation between
 5 histogram - for frequency(number)
 6.Pie Chart
 If you want to represent your categorical data as part of the whole, then you should use a pie chart.
-
+7.vilion graph
+8.treemap
 
 - a linear approach for modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables).
 ```
