@@ -52,3 +52,4 @@ If you want to represent your categorical data as part of the whole, then you sh
         + stat_smooth(method='lm') 
         + theme_bw())
 ```
+	![alt text]()
