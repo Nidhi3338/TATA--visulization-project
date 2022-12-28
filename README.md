@@ -52,5 +52,4 @@ If you want to represent your categorical data as part of the whole, then you sh
         + stat_smooth(method='lm') 
         + theme_bw())
 ```
-	[title](https://github.com/Nidhi3338/TATA--visulization-project/blob/main/linear.png)
-	
+	![alt text](./linear.png)
