@@ -35,15 +35,17 @@ We choose a dot or scatter plot in this case for our geometric object to represe
 2. bar grapgh 
 The only difference between them is that in a bar chart, values are represented on the X-axis and categories on the Y-axis.
 3. column graph 
-similar as bar , column will be resprented on x-axies
+similar as bar , column will be resprented on x-axies and comparing 2 or 3 diffrent categroius 
 4. scaltter plot(number)
 continous varibales , Scatter plots are useful for showing a correlation between the data points that may not be easy to see from the data alone.
-5 histogram - for frequency(number)
+5 histogram - for frequency(number)/ stastic hiher to lower
 6.Pie Chart- precentage value
 If you want to represent your categorical data as part of the whole, then you should use a pie chart.
 7.vilion graph
 8.treemap
-
+9.area chat to compare mutiple categrious 
+10. gauage -to show the progrees 
+11. stacked bar - to comapre in the same subplot bar
 - a linear approach for modelling the relationship between a scalar response and one or more explanatory variables (also known as dependent and independent variables).
 ```
 (ggplot(mtcars, 
@@ -58,3 +60,4 @@ The ggplot() function creates a new plot object and takes a dataset (mtcars) and
 ## important note 
 1. Avoid using too many colors "rainbow effect".  Using a single color, or varying shades of the same color, is a much better practice
 2. Label the axes - Labelling the axes gives your viewer context
+
