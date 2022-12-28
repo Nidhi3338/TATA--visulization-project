@@ -53,3 +53,4 @@ If you want to represent your categorical data as part of the whole, then you sh
         + theme_bw())
 ```
 	![alt text](linear.png)
+	
