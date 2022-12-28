@@ -39,7 +39,7 @@ similar as bar , column will be resprented on x-axies
 4. scaltter plot(number)
 continous varibales , Scatter plots are useful for showing a correlation between the data points that may not be easy to see from the data alone.
 5 histogram - for frequency(number)
-6.Pie Chart
+6.Pie Chart- precentage value
 If you want to represent your categorical data as part of the whole, then you should use a pie chart.
 7.vilion graph
 8.treemap
