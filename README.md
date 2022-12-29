@@ -1,6 +1,7 @@
 # TATA--visulization-project
 
 ## Task -1 
+- using data exploration You’ve been provided a dataset in the resources below to use as the basis .
 - An online retail store has hired you as a consultant to review their data and provide insights that would be valuable to the CEO and CMO of the business. 
 - They would also like to view different metrics based on the demographic information that is available in the data.
 - Create a set of four questions that you anticipate each business leader will ask and want to know the answers to. 
@@ -63,3 +64,5 @@ The ggplot() function creates a new plot object and takes a dataset (mtcars) and
 
 ## Task -3 
  - creating visual
+a. 1 step is to clean the data set from excel file and clean the unit price error  values and neative quantitiy or use  transformation method to clean the data
+b. 2 step is to use the visulization tool for the stakeholders to take a business insights by the visuls created for each question asked by ceo and cmo in  total 4 worksheet visul to be presented 
