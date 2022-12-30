@@ -65,4 +65,9 @@ The ggplot() function creates a new plot object and takes a dataset (mtcars) and
 ## Task -3 
  - creating visual
 a. 1 step is to clean the data set from excel file and clean the unit price error  values and neative quantitiy or use  transformation method to clean the data
+- use (abs A1) to invert it to positive 
 b. 2 step is to use the visulization tool for the stakeholders to take a business insights by the visuls created for each question asked by ceo and cmo in  total 4 worksheet visul to be presented 
+1.line chart - renvue to calculate , cutomer and quantity  
+2.side by side chart top 10 countries , quantity , and renvue 
+3. map find invice max country used 
+4. column top 10 by country in descinding order 
