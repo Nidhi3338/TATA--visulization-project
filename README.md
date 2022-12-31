@@ -78,3 +78,4 @@ b. 2 step is to use the visulization tool for the stakeholders to take a busines
 - When writing your script, you should speak about your entire process, including the initial data load and clean-up steps so that your leaders know you’ve done your due diligence in providing error-free analysis. 
 -Data analysis provides heaps of information but remember to focus on the information that is most important to your leaders.
 - make a script and record a video 
+[title](task3cleandata.xlsx)
