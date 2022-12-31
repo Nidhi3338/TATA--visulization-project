@@ -71,3 +71,10 @@ b. 2 step is to use the visulization tool for the stakeholders to take a busines
 2.side by side chart top 10 countries , quantity , and renvue 
 3. map find invice max country used 
 4. column top 10 by country in descinding order 
+
+## Task 4
+- storytelling
+- -It is important to explain your thought process and ideas in a clear and straightforward way. You are also required to clearly present the analysis of all four questions from the previous task. 
+- When writing your script, you should speak about your entire process, including the initial data load and clean-up steps so that your leaders know you’ve done your due diligence in providing error-free analysis. 
+-Data analysis provides heaps of information but remember to focus on the information that is most important to your leaders.
+- make a script and record a video 
