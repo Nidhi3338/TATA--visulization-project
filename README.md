@@ -79,4 +79,4 @@ b. 2 step is to use the visulization tool for the stakeholders to take a busines
 -Data analysis provides heaps of information but remember to focus on the information that is most important to your leaders.
 - make a script and record a video 
 [data/excel](task3cleandata.xlsx)
-final presentaion report [prsentation]()
+final presentaion report [prsentation](storytelling_tata.twb)
